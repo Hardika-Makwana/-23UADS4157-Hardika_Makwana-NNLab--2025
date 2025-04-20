@@ -1,1 +1,1 @@
-ECHO is on.
+# NNexp7 experiments 
